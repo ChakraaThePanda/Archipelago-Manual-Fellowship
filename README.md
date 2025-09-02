@@ -9,6 +9,3 @@ This AP World requires the use of the game Fellowship.
 ## How to play
 * Complete the instances you have received through Archipelago. You will start with 1 free instance.
 * Once an instance is completed, you can send your checks.
-
-## Known Issue
-* It seems there's currently an issue with the Goal being in Logic 1 instance earlier than it should, unsure why. Currently under investigation, but shouldn't make the game unplayable.

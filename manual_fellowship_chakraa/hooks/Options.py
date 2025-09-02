@@ -26,7 +26,7 @@ from typing import Type, Any
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
 class InstancesTypes(Choice):
-    """Select which types of instances you wish to play. This will add to the pool all of the instances available for that type."""
+    """Select which types of instances you wish to play. This will add all available ones from your chosen type(s) to the pool."""
     display_name = "Instances Types"
     option_dungeons = 0
     option_adventures = 1
@@ -34,7 +34,7 @@ class InstancesTypes(Choice):
     default = 2
 
 class LocationsPerInstance(Range):
-    """Select the amount of locations each instance has"""
+    """Select the amount of locations each instance has."""
     display_name = "Locations per instance"
     range_start = 1
     range_end = 10

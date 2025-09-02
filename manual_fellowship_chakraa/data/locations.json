@@ -560,7 +560,7 @@
     "requires": "|Empyrean Sands|"
   },
   {
-    "name": "Victory - All Dungeons Completed",
+    "name": "Victory - All Instances Completed",
     "region": "Goal",
     "victory": true,
     "category": [

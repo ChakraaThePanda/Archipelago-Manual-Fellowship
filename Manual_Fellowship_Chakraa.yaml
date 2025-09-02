@@ -63,13 +63,13 @@ Manual_Fellowship_Chakraa:
     minimal: 0
 
   instance_types:
-    # Select which types of instances you wish to play. This will add to the pool all of the instances available for that type.
+    # Select which types of instances you wish to play. This will add all available ones from your chosen type(s) to the pool.
     dungeons: 0
     adventures: 0
     both: 50
 
   locations_per_instance:
-    # Select the amount of locations each instance has
+    # Select the amount of locations each instance has.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1

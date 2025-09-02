@@ -43,57 +43,50 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
-    
-    instance_types = get_option_value(multiworld, player, "instance_types")
-    locations_per_instance = get_option_value(multiworld, player, "locations_per_instance")
 
     item_re = re.compile(r"\bItem\s+(\d+)\b")
 
-    # Decide which categories are valid for this player
-    if instance_types == 0:       # Dungeons only
-        valid_categories = {"Dungeons"}
-    elif instance_types == 1:     # Adventures only
-        valid_categories = {"Adventures"}
-    else:                        # Both
-        valid_categories = {"Dungeons", "Adventures"}
+    instance_types = get_option_value(multiworld, player, "instance_types")  # 0=Dungeons, 1=Adventures, 2=Both
+    locations_per_instance = get_option_value(multiworld, player, "locations_per_instance")
 
-    # Build a lookup: location name -> set(categories) from the static data
+    if instance_types == 0:          # Dungeons only
+        disallowed = {"Adventures"}
+    elif instance_types == 1:        # Adventures only
+        disallowed = {"Dungeons"}
+    else:                            # Both
+        disallowed = set()
+
     categories_by_locname: dict[str, set[str]] = {}
-    for loc in location_table:  # from ..Data import location_table
-        name = loc.get("name")
-        if not name:
+    for rec in location_table:
+        n = rec.get("name")
+        if not n:
             continue
-        cats = loc.get("category", []) or []
+        cats = rec.get("category", []) or []
         if isinstance(cats, str):
             cats = [cats]
-        categories_by_locname[name] = set(cats)
+        categories_by_locname[n] = set(cats)
 
     for region in multiworld.regions:
         if getattr(region, "player", None) != player:
             continue
 
         for location in list(region.locations):
-            # --- Always keep victory / win condition locations
-            loc_cats = categories_by_locname.get(location.name, set())
-            if "Win Condition" in loc_cats or location.name.startswith("Victory"):
+            name = getattr(location, "name", "")
+
+            loc_cats = categories_by_locname.get(name, set())
+            if "Win Condition" in loc_cats or name.startswith("Victory"):
                 continue
 
-            # --- Filter by Item number cap ---
-            m = item_re.search(location.name)
-            if m:
-                if int(m.group(1)) > locations_per_instance:
-                    region.locations.remove(location)
-                    continue
+            m = item_re.search(name)
+            if m and int(m.group(1)) > locations_per_instance:
+                region.locations.remove(location)
+                continue
 
-            # --- Filter by category ---
-            # If we don't know this location from the static table, be conservative and remove it.
-            if not loc_cats or valid_categories.isdisjoint(loc_cats):
+            if loc_cats & disallowed:
                 region.locations.remove(location)
 
-    # Clear caches if present
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
-
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
@@ -112,70 +105,49 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    """
-    Filter the item pool by the selected category/categories based on the
-    'instance_types' option (0=Dungeons, 1=Adventures, 2=Both) and
-    randomly precollect exactly one qualifying item.
-    """
-    instance_types = get_option_value(multiworld, player, "instance_types")
 
-    # Build allowed category set
-    if instance_types == 0:          # Dungeons only
+    inst_type = get_option_value(multiworld, player, "instance_types")
+    if inst_type == 0:       # Dungeons only
         allowed = {"Dungeons"}
-    elif instance_types == 1:        # Adventures only
+        disallowed = {"Adventures"}
+    elif inst_type == 1:     # Adventures only
         allowed = {"Adventures"}
-    else:                           # Both
+        disallowed = {"Dungeons"}
+    else:                    # Both
         allowed = {"Dungeons", "Adventures"}
+        disallowed = set()
 
-    # Index categories by item name from the static item_table
-    # (item_table should be imported from ..Data at the top of this file)
-    categories_by_name = {}
-    for it in item_table:
-        n = it.get("name")
+    categories_by_name: dict[str, set[str]] = {}
+    for rec in item_table:
+        n = rec.get("name")
         if not n:
             continue
-        cats = it.get("category", [])
+        cats = rec.get("category", []) or []
         if isinstance(cats, str):
             cats = [cats]
         categories_by_name[n] = set(cats)
 
-    filtered_items = []
-    candidates_for_precollect = []
+    filtered_items: list = []
+    precollect_candidates: list = []
 
-    # Iterate over a copy so we can modify safely
-    for item in list(item_pool):
-        name = getattr(item, "name", None)
-        if not name:
-            # Keep unnamed items as-is
-            filtered_items.append(item)
+    for itm in list(item_pool):
+        cats = categories_by_name.get(getattr(itm, "name", ""), set())
+
+        if cats & disallowed:
             continue
 
-        item_cats = categories_by_name.get(name, set())
+        filtered_items.append(itm)
 
-        # If item has no categories, treat strictly: remove
-        if not item_cats or allowed.isdisjoint(item_cats):
-            continue
+        if cats & allowed:
+            precollect_candidates.append(itm)
 
-        # Item is in allowed categories -> keep it
-        filtered_items.append(item)
-        candidates_for_precollect.append(item)
+    if precollect_candidates:
+        starter = world.random.choice(precollect_candidates)
+        multiworld.push_precollected(starter)
+        filtered_items.remove(starter)
 
-    # Randomly precollect one qualifying item (if any), and remove it from pool
-    if candidates_for_precollect:
-        starter_item = world.random.choice(candidates_for_precollect)
-        multiworld.push_precollected(starter_item)
-        filtered_items.remove(starter_item)
-
-    # Let Manual adjust filler after filtering
     return world.adjust_filler_items(filtered_items, [])
 
-    # Some other useful hook options:
-
-    ## Place an item at a specific location
-    # location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Location Name")
-    # item_to_place = next(i for i in item_pool if i.name == "Item Name")
-    # location.place_locked_item(item_to_place)
-    # item_pool.remove(item_to_place)
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:

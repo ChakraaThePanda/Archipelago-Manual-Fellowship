@@ -1,0 +1,65 @@
+[
+  {
+    "count": 1,
+    "name": "Cithrel's Ascent",
+    "category": [
+      "Dungeons",
+      "Instances"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Demonbrand Ruins",
+    "category": [
+      "Dungeons",
+      "Instances"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wraithtide Isles",
+    "category": [
+      "Dungeons",
+      "Instances"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Wyrmheart",
+    "category": [
+      "Adventures",
+      "Instances"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sailor's Abyss",
+    "category": [
+      "Adventures",
+      "Instances"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stormwatch",
+    "category": [
+      "Adventures",
+      "Instances"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Empyrean Sands",
+    "category": [
+      "Adventures",
+      "Instances"
+    ],
+    "progression": true
+  }
+]

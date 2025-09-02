@@ -2,10 +2,13 @@
 This AP World requires the use of the game Fellowship.
 
 ## Goal
-* Complete all of the available dungeons in the pool at the time of the latest release.
+* Complete all of the available instances in the pool at the time of the latest release.
    * For example, in the Beta, the game has 3 Dungeons and 4 Adventures.
    * Your YAML options will allow you to decide whether you want to run Adventures, Dungeons or both.
-   * You will also be able to decide how many locations you want each dungeons to have.
+   * You will also be able to decide how many locations you want each instances to have.
 ## How to play
-* Complete the dungeons you have received through Archipelago. You will start with 1 free dungeon.
-* Once a dungeon is completed, you can send your checks.
+* Complete the instances you have received through Archipelago. You will start with 1 free instance.
+* Once an instance is completed, you can send your checks.
+
+## Known Issue
+* It seems there's currently an issue with the Goal being in Logic 1 instance earlier than it should, unsure why. Currently under investigation, but shouldn't make the game unplayable.

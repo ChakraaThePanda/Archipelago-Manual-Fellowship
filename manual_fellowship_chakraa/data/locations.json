@@ -1,0 +1,571 @@
+[
+  {
+    "name": "Cithrel's Ascent - Item 01",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 02",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 03",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 04",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 05",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 06",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 07",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 08",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 09",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Cithrel's Ascent - Item 10",
+    "category": [
+      "Cithrel's Ascent",
+      "Dungeons"
+    ],
+    "requires": "|Cithrel's Ascent|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 01",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 02",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 03",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 04",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 05",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 06",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 07",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 08",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 09",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Demonbrand Ruins - Item 10",
+    "category": [
+      "Demonbrand Ruins",
+      "Dungeons"
+    ],
+    "requires": "|Demonbrand Ruins|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 01",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 02",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 03",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 04",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 05",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 06",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 07",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 08",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 09",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "Wraithtide Isles - Item 10",
+    "category": [
+      "Wraithtide Isles",
+      "Dungeons"
+    ],
+    "requires": "|Wraithtide Isles|"
+  },
+  {
+    "name": "The Wyrmheart - Item 01",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 02",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 03",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 04",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 05",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 06",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 07",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 08",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 09",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "The Wyrmheart - Item 10",
+    "category": [
+      "The Wyrmheart",
+      "Adventures"
+    ],
+    "requires": "|The Wyrmheart|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 01",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 02",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 03",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 04",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 05",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 06",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 07",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 08",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 09",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Sailor's Abyss - Item 10",
+    "category": [
+      "Sailor's Abyss",
+      "Adventures"
+    ],
+    "requires": "|Sailor's Abyss|"
+  },
+  {
+    "name": "Stormwatch - Item 01",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 02",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 03",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 04",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 05",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 06",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 07",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 08",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 09",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Stormwatch - Item 10",
+    "category": [
+      "Stormwatch",
+      "Adventures"
+    ],
+    "requires": "|Stormwatch|"
+  },
+  {
+    "name": "Empyrean Sands - Item 01",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 02",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 03",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 04",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 05",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 06",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 07",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 08",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 09",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Empyrean Sands - Item 10",
+    "category": [
+      "Empyrean Sands",
+      "Adventures"
+    ],
+    "requires": "|Empyrean Sands|"
+  },
+  {
+    "name": "Victory - All Dungeons Completed",
+    "region": "Goal",
+    "victory": true,
+    "category": [
+      "Win Condition"
+    ],
+    "requires": []
+  }
+]

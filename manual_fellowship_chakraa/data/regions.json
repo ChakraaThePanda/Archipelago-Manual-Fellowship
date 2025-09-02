@@ -1,0 +1,7 @@
+{
+  "Goal": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|@Instances:ALL|"
+  }
+}

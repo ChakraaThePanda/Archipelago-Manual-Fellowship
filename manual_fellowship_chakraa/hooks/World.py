@@ -106,11 +106,11 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
-    inst_type = get_option_value(multiworld, player, "instance_types")
-    if inst_type == 0:       # Dungeons only
+    instance_type = get_option_value(multiworld, player, "instance_types")
+    if instance_type == 0:       # Dungeons only
         allowed = {"Dungeons"}
         disallowed = {"Adventures"}
-    elif inst_type == 1:     # Adventures only
+    elif instance_type == 1:     # Adventures only
         allowed = {"Adventures"}
         disallowed = {"Dungeons"}
     else:                    # Both
@@ -119,35 +119,38 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     categories_by_name: dict[str, set[str]] = {}
     for rec in item_table:
-        n = rec.get("name")
-        if not n:
+        name = rec.get("name")
+        if not name:
             continue
-        cats = rec.get("category", []) or []
-        if isinstance(cats, str):
-            cats = [cats]
-        categories_by_name[n] = set(cats)
+        item_categories = rec.get("category", []) or []
+        if isinstance(item_categories, str):
+            item_categories = [item_categories]
+        categories_by_name[name] = set(item_categories)
 
     filtered_items: list = []
     precollect_candidates: list = []
 
-    for itm in list(item_pool):
-        cats = categories_by_name.get(getattr(itm, "name", ""), set())
+    for item in list(item_pool):
+        item_categories = categories_by_name.get(getattr(item, "name", ""), set())
 
-        if cats & disallowed:
+        if item_categories & disallowed:
             continue
 
-        filtered_items.append(itm)
+        filtered_items.append(item)
 
-        if cats & allowed:
-            precollect_candidates.append(itm)
+        if item_categories & allowed:
+            precollect_candidates.append(item)
 
     if precollect_candidates:
         starter = world.random.choice(precollect_candidates)
         multiworld.push_precollected(starter)
         filtered_items.remove(starter)
 
-    return world.adjust_filler_items(filtered_items, [])
+        if not hasattr(world, "manual_precollected"):
+            world.manual_precollected = {}
+        world.manual_precollected.setdefault(player, []).append(starter.name)
 
+    return world.adjust_filler_items(filtered_items, [])
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
@@ -155,7 +158,30 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
-    pass
+    """
+    Count fix for precollected items:
+    push_precollected() removes the item from the pool, so @Category:ALL won't see it
+    unless we also add it to the count tables. This syncs the counts so goals don't
+    unlock at ALL-1.
+    THIS FIX IS TEMPORARY UNTIL MANUAL ADDS A REAL ONE.
+    All of this will not be needed at all once patched.
+    """
+    names = getattr(world, "manual_precollected", {}).get(player, [])
+    if not names:
+        return
+
+    # Ensure per-player dicts exist
+    if not hasattr(world, "item_counts"):
+        world.item_counts = {}
+    if not hasattr(world, "item_counts_progression"):
+        world.item_counts_progression = {}
+
+    world.item_counts.setdefault(player, {})
+    world.item_counts_progression.setdefault(player, {})
+
+    for item_name in names:
+        world.item_counts[player][item_name] = world.item_counts[player].get(item_name, 0) + 1
+        world.item_counts_progression[player][item_name] = world.item_counts_progression[player].get(item_name, 0) + 1
 
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):

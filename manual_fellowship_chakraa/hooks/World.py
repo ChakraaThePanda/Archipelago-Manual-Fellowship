@@ -47,19 +47,17 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     dungeons_amount = get_option_value(multiworld, player, "dungeons_amount")
     locations_per_dungeon = get_option_value(multiworld, player, "locations_per_dungeon")
 
-    # Capture zero-padded XX and YY
-    pat = re.compile(r"^Complete\s+(\d{2})\s+dungeon with\s+.+?\s+-\s+Item\s+(\d{2})$")
+    pat = re.compile(r"^Complete\s+(\d+)\s+dungeons?\s+with\s+.+?\s+-\s+Item\s+(\d{2})$")
 
     for region in multiworld.regions:
         if getattr(region, "player", None) != player:
             continue
 
-        for location in list(region.locations):  # copy for safe removal
+        for location in list(region.locations):
             name = getattr(location, "name", "")
 
             m = pat.match(name)
             if not m:
-                # Not one of our generated locations -> keep
                 continue
 
             xx = int(m.group(1))  # dungeons completed
@@ -68,7 +66,6 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
             if xx > dungeons_amount or yy > locations_per_dungeon:
                 region.locations.remove(location)
 
-    # Some MW versions require clearing this cache
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
 

@@ -3,7 +3,7 @@
     "count": 1,
     "name": "Helena",
     "category": [
-      "Heroes", "Helena"
+      "Heroes", "Helena_Item"
     ],
     "progression": true
   },
@@ -11,7 +11,7 @@
     "count": 1,
     "name": "Meiko",
     "category": [
-      "Heroes", "Meiko"
+      "Heroes", "Meiko_Item"
     ],
     "progression": true
   },
@@ -19,7 +19,7 @@
     "count": 1,
     "name": "Rime",
     "category": [
-      "Heroes", "Rime"
+      "Heroes", "Rime_Item"
     ],
     "progression": true
   },
@@ -27,7 +27,7 @@
     "count": 1,
     "name": "Tariq",
     "category": [
-      "Heroes", "Tariq"
+      "Heroes", "Tariq_Item"
     ],
     "progression": true
   },
@@ -35,7 +35,7 @@
     "count": 1,
     "name": "Mara",
     "category": [
-      "Heroes", "Mara"
+      "Heroes", "Mara_Item"
     ],
     "progression": true
   },
@@ -43,7 +43,7 @@
     "count": 1,
     "name": "CoolGuy",
     "category": [
-      "Heroes", "CoolGuy"
+      "Heroes", "CoolGuy_Item"
     ],
     "progression": true
   },
@@ -51,7 +51,7 @@
     "count": 1,
     "name": "Ardeos",
     "category": [
-      "Heroes", "Ardeos"
+      "Heroes", "Ardeos_Item"
     ],
     "progression": true
   },
@@ -59,7 +59,7 @@
     "count": 1,
     "name": "Sylvie",
     "category": [
-      "Heroes", "Sylvie"
+      "Heroes", "Sylvie_Item"
     ],
     "progression": true
   },
@@ -67,7 +67,7 @@
     "count": 1,
     "name": "Vigour",
     "category": [
-      "Heroes", "Vigour"
+      "Heroes", "Vigour_Item"
     ],
     "progression": true
   }

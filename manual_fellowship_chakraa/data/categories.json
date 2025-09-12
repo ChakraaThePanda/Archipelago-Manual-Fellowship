@@ -1,53 +1,98 @@
 {
   "Helena": {
+    "yaml_option": [
+      "include_helena"
+    ]
+  },
+  "Helena_Item": {
     "hidden": true,
     "yaml_option": [
       "include_helena"
     ]
   },
   "Meiko": {
+    "yaml_option": [
+      "include_meiko"
+    ]
+  },
+  "Meiko_Item": {
     "hidden": true,
     "yaml_option": [
       "include_meiko"
     ]
   },
   "Rime": {
+    "yaml_option": [
+      "include_rime"
+    ]
+  },  
+  "Rime_Item": {
     "hidden": true,
     "yaml_option": [
       "include_rime"
     ]
   },
   "Tariq": {
+    "yaml_option": [
+      "include_tariq"
+    ]
+  },
+  "Tariq_Item": {
     "hidden": true,
     "yaml_option": [
       "include_tariq"
     ]
   },
   "Mara": {
+    "yaml_option": [
+      "include_mara"
+    ]
+  },
+  "Mara_Item": {
     "hidden": true,
     "yaml_option": [
       "include_mara"
     ]
   },
   "CoolGuy": {
+    "yaml_option": [
+      "include_coolguy"
+    ]
+  },
+  "CoolGuy_Item": {
     "hidden": true,
     "yaml_option": [
       "include_coolguy"
     ]
   },
   "Ardeos": {
+    "yaml_option": [
+      "include_ardeos"
+    ]
+  },
+  "Ardeos_Item": {
     "hidden": true,
     "yaml_option": [
       "include_ardeos"
     ]
   },
   "Sylvie": {
+    "yaml_option": [
+      "include_sylvie"
+    ]
+  },
+  "Sylvie_Item": {
     "hidden": true,
     "yaml_option": [
       "include_sylvie"
     ]
   },
   "Vigour": {
+    "yaml_option": [
+      "include_vigour"
+    ]
+  },
+  "Vigour_Item": {
     "hidden": true,
     "yaml_option": [
       "include_vigour"

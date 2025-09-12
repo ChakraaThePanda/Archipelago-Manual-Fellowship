@@ -1,64 +1,73 @@
 [
   {
     "count": 1,
-    "name": "Cithrel's Ascent",
+    "name": "Helena",
     "category": [
-      "Dungeons",
-      "Instances"
+      "Heroes", "Helena"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Demonbrand Ruins",
+    "name": "Meiko",
     "category": [
-      "Dungeons",
-      "Instances"
+      "Heroes", "Meiko"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Wraithtide Isles",
+    "name": "Rime",
     "category": [
-      "Dungeons",
-      "Instances"
+      "Heroes", "Rime"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "The Wyrmheart",
+    "name": "Tariq",
     "category": [
-      "Adventures",
-      "Instances"
+      "Heroes", "Tariq"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Sailor's Abyss",
+    "name": "Mara",
     "category": [
-      "Adventures",
-      "Instances"
+      "Heroes", "Mara"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Stormwatch",
+    "name": "CoolGuy",
     "category": [
-      "Adventures",
-      "Instances"
+      "Heroes", "CoolGuy"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Empyrean Sands",
+    "name": "Ardeos",
     "category": [
-      "Adventures",
-      "Instances"
+      "Heroes", "Ardeos"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sylvie",
+    "category": [
+      "Heroes", "Sylvie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vigour",
+    "category": [
+      "Heroes", "Vigour"
     ],
     "progression": true
   }

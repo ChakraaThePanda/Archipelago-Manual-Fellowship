@@ -1,8 +1,56 @@
 {
-  "Dungeons": {
-    "hidden": true
+  "Helena": {
+    "hidden": true,
+    "yaml_option": [
+      "include_helena"
+    ]
   },
-  "Adventures": {
-    "hidden": true
+  "Meiko": {
+    "hidden": true,
+    "yaml_option": [
+      "include_meiko"
+    ]
+  },
+  "Rime": {
+    "hidden": true,
+    "yaml_option": [
+      "include_rime"
+    ]
+  },
+  "Tariq": {
+    "hidden": true,
+    "yaml_option": [
+      "include_tariq"
+    ]
+  },
+  "Mara": {
+    "hidden": true,
+    "yaml_option": [
+      "include_mara"
+    ]
+  },
+  "CoolGuy": {
+    "hidden": true,
+    "yaml_option": [
+      "include_coolguy"
+    ]
+  },
+  "Ardeos": {
+    "hidden": true,
+    "yaml_option": [
+      "include_ardeos"
+    ]
+  },
+  "Sylvie": {
+    "hidden": true,
+    "yaml_option": [
+      "include_sylvie"
+    ]
+  },
+  "Vigour": {
+    "hidden": true,
+    "yaml_option": [
+      "include_vigour"
+    ]
   }
 }

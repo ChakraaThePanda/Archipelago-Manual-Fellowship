@@ -2,6 +2,51 @@
   "Goal": {
     "starting": true,
     "connects_to": [],
-    "requires": "|@Instances:ALL|"
+    "requires": "|@Heroes:ALL|"
+  },
+  "Helena": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Helena|"
+  },
+  "Meiko": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Meiko|"
+  },
+  "Rime": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Rime|"
+  },
+  "Tariq": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Tariq|"
+  },
+  "Mara": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Mara|"
+  },
+  "CoolGuy": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|CoolGuy|"
+  },
+  "Ardeos": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Ardeos|"
+  },
+  "Sylvie": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Sylvie|"
+  },
+  "Vigour": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Vigour|"
   }
 }

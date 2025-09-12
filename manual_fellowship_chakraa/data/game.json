@@ -3,5 +3,10 @@
   "game": "Fellowship",
   "creator": "Chakraa",
   "filler_item_name": "Scrap",
-  "starting_items": []
+  "starting_items": [
+            {
+            "item_categories": ["Heroes"],
+            "random": 1
+        }
+  ]
 }

@@ -25,25 +25,24 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class InstancesTypes(Choice):
-    """Select which types of instances you wish to play. This will add all available ones from your chosen type(s) to the pool."""
-    display_name = "Instances Types"
-    option_dungeons = 0
-    option_adventures = 1
-    option_both = 2
+class DungeonsAmount(Range):
+    """Select the amount of dungeons each Hero has to complete."""
+    display_name = "Dungeons Amount per Hero"
+    range_start = 1
+    range_end = 10
     default = 2
 
-class LocationsPerInstance(Range):
-    """Select the amount of locations each instance has."""
-    display_name = "Locations per instance"
+class LocationsPerDungeon(Range):
+    """Select the amount of locations each dungeon has."""
+    display_name = "Locations per dungeon"
     range_start = 1
     range_end = 10
     default = 4
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
-    options["instance_types"] = InstancesTypes
-    options["locations_per_instance"] = LocationsPerInstance
+    options["dungeons_amount"] = DungeonsAmount
+    options["locations_per_dungeon"] = LocationsPerDungeon
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
@@ -56,7 +55,26 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     # options.type_hints['goal'].aliases.update({"example": 0, "second_alias": 1})
     # options.type_hints['goal'].options.update({"example": 0, "second_alias": 1})  #for an alias to be valid it must also be in options
 
-    pass
+    options.type_hints["include_helena"].__doc__ = """When set to true, will include Helena in the pool"""
+    options.type_hints["include_helena"].display_name = """Include Helena"""
+    options.type_hints["include_meiko"].__doc__ = """When set to true, will include Meiko in the pool"""
+    options.type_hints["include_meiko"].display_name = """Include Meiko"""
+    options.type_hints["include_rime"].__doc__ = """When set to true, will include Rime in the pool"""
+    options.type_hints["include_rime"].display_name = """Include Rime"""
+    options.type_hints["include_tariq"].__doc__ = """When set to true, will include Tariq in the pool"""
+    options.type_hints["include_tariq"].display_name = """Include Tariq"""
+    options.type_hints["include_mara"].__doc__ = """When set to true, will include Mara in the pool"""
+    options.type_hints["include_mara"].display_name = """Include Mara"""
+    options.type_hints["include_coolguy"].__doc__ = """When set to true, will include CoolGuy in the pool"""
+    options.type_hints["include_coolguy"].display_name = """Include CoolGuy"""
+    options.type_hints["include_ardeos"].__doc__ = """When set to true, will include Ardeos in the pool"""
+    options.type_hints["include_ardeos"].display_name = """Include Ardeos"""
+    options.type_hints["include_sylvie"].__doc__ = """When set to true, will include Sylvie in the pool"""
+    options.type_hints["include_sylvie"].display_name = """Include Sylvie"""
+    options.type_hints["include_vigour"].__doc__ = """When set to true, will include Vigour in the pool"""
+    options.type_hints["include_vigour"].display_name = """Include Vigour"""
+
+    return options
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:

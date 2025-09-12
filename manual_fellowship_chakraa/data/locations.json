@@ -1,571 +1,7211 @@
 [
   {
-    "name": "Cithrel's Ascent - Item 01",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 02",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 03",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 04",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 05",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 06",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 07",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 08",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 09",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Cithrel's Ascent - Item 10",
-    "category": [
-      "Cithrel's Ascent",
-      "Dungeons"
-    ],
-    "requires": "|Cithrel's Ascent|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 01",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 02",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 03",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 04",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 05",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 06",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 07",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 08",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 09",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Demonbrand Ruins - Item 10",
-    "category": [
-      "Demonbrand Ruins",
-      "Dungeons"
-    ],
-    "requires": "|Demonbrand Ruins|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 01",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 02",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 03",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 04",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 05",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 06",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 07",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 08",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 09",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "Wraithtide Isles - Item 10",
-    "category": [
-      "Wraithtide Isles",
-      "Dungeons"
-    ],
-    "requires": "|Wraithtide Isles|"
-  },
-  {
-    "name": "The Wyrmheart - Item 01",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 02",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 03",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 04",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 05",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 06",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 07",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 08",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 09",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "The Wyrmheart - Item 10",
-    "category": [
-      "The Wyrmheart",
-      "Adventures"
-    ],
-    "requires": "|The Wyrmheart|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 01",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 02",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 03",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 04",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 05",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 06",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 07",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 08",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 09",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Sailor's Abyss - Item 10",
-    "category": [
-      "Sailor's Abyss",
-      "Adventures"
-    ],
-    "requires": "|Sailor's Abyss|"
-  },
-  {
-    "name": "Stormwatch - Item 01",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 02",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 03",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 04",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 05",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 06",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 07",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 08",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 09",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Stormwatch - Item 10",
-    "category": [
-      "Stormwatch",
-      "Adventures"
-    ],
-    "requires": "|Stormwatch|"
-  },
-  {
-    "name": "Empyrean Sands - Item 01",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 02",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 03",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 04",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 05",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 06",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 07",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 08",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 09",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Empyrean Sands - Item 10",
-    "category": [
-      "Empyrean Sands",
-      "Adventures"
-    ],
-    "requires": "|Empyrean Sands|"
-  },
-  {
-    "name": "Victory - All Instances Completed",
+    "name": "Victory - All Dungeons Completed",
     "region": "Goal",
     "victory": true,
     "category": [
       "Win Condition"
     ],
     "requires": []
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 02 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 03 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 04 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 05 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 06 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 07 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 08 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 09 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 01",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 02",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 03",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 04",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 05",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 06",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 07",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 08",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 09",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 10 dungeon with Helena - Item 10",
+    "category": [
+      "Helena"
+    ],
+    "requires": [],
+    "region": "Helena"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 02 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 03 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 04 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 05 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 06 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 07 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 08 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 09 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 01",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 02",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 03",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 04",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 05",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 06",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 07",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 08",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 09",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 10 dungeon with Meiko - Item 10",
+    "category": [
+      "Meiko"
+    ],
+    "requires": [],
+    "region": "Meiko"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 02 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 03 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 04 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 05 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 06 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 07 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 08 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 09 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 01",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 02",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 03",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 04",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 05",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 06",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 07",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 08",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 09",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 10 dungeon with Rime - Item 10",
+    "category": [
+      "Rime"
+    ],
+    "requires": [],
+    "region": "Rime"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 02 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 03 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 04 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 05 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 06 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 07 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 08 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 09 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 01",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 02",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 03",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 04",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 05",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 06",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 07",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 08",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 09",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 10 dungeon with Tariq - Item 10",
+    "category": [
+      "Tariq"
+    ],
+    "requires": [],
+    "region": "Tariq"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 02 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 03 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 04 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 05 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 06 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 07 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 08 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 09 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 01",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 02",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 03",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 04",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 05",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 06",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 07",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 08",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 09",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 10 dungeon with Mara - Item 10",
+    "category": [
+      "Mara"
+    ],
+    "requires": [],
+    "region": "Mara"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 02 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 03 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 04 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 05 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 06 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 07 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 08 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 09 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 01",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 02",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 03",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 04",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 05",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 06",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 07",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 08",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 09",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 10 dungeon with CoolGuy - Item 10",
+    "category": [
+      "CoolGuy"
+    ],
+    "requires": [],
+    "region": "CoolGuy"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 02 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 03 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 04 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 05 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 06 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 07 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 08 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 09 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 01",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 02",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 03",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 04",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 05",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 06",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 07",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 08",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 09",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 10 dungeon with Ardeos - Item 10",
+    "category": [
+      "Ardeos"
+    ],
+    "requires": [],
+    "region": "Ardeos"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 02 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 03 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 04 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 05 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 06 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 07 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 08 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 09 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 01",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 02",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 03",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 04",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 05",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 06",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 07",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 08",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 09",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 10 dungeon with Sylvie - Item 10",
+    "category": [
+      "Sylvie"
+    ],
+    "requires": [],
+    "region": "Sylvie"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 01 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 02 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 03 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 04 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 05 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 06 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 07 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 08 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 09 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 01",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 02",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 03",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 04",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 05",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 06",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 07",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 08",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 09",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
+  },
+  {
+    "name": "Complete 10 dungeon with Vigour - Item 10",
+    "category": [
+      "Vigour"
+    ],
+    "requires": [],
+    "region": "Vigour"
   }
 ]

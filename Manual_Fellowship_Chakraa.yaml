@@ -62,14 +62,19 @@ Manual_Fellowship_Chakraa:
     full: 50
     minimal: 0
 
-  instance_types:
-    # Select which types of instances you wish to play. This will add all available ones from your chosen type(s) to the pool.
-    dungeons: 0
-    adventures: 0
-    both: 50
+  dungeons_amount:
+    # Select the amount of dungeons each Hero has to complete.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 10
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
-  locations_per_instance:
-    # Select the amount of locations each instance has.
+  locations_per_dungeon:
+    # Select the amount of locations each dungeon has.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
@@ -78,6 +83,51 @@ Manual_Fellowship_Chakraa:
     random: 0
     random-low: 0
     random-high: 0
+
+  include_helena:
+    # When set to true, will include Helena in the pool
+    'false': 0
+    'true': 50
+
+  include_meiko:
+    # When set to true, will include Meiko in the pool
+    'false': 0
+    'true': 50
+
+  include_rime:
+    # When set to true, will include Rime in the pool
+    'false': 0
+    'true': 50
+
+  include_tariq:
+    # When set to true, will include Tariq in the pool
+    'false': 0
+    'true': 50
+
+  include_mara:
+    # When set to true, will include Mara in the pool
+    'false': 0
+    'true': 50
+
+  include_coolguy:
+    # When set to true, will include CoolGuy in the pool
+    'false': 0
+    'true': 50
+
+  include_ardeos:
+    # When set to true, will include Ardeos in the pool
+    'false': 0
+    'true': 50
+
+  include_sylvie:
+    # When set to true, will include Sylvie in the pool
+    'false': 0
+    'true': 50
+
+  include_vigour:
+    # When set to true, will include Vigour in the pool
+    'false': 0
+    'true': 50
 
   ###########################
   # Item & Location Options #

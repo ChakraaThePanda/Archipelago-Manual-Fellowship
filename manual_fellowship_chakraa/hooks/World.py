@@ -5,7 +5,7 @@ from BaseClasses import MultiWorld, CollectionState, Item
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
 from ..Locations import ManualLocation
-from .Options import InstancesTypes, LocationsPerInstance
+from .Options import DungeonsAmount, LocationsPerDungeon
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
@@ -44,49 +44,34 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 
-    item_re = re.compile(r"\bItem\s+(\d+)\b")
+    dungeons_amount = get_option_value(multiworld, player, "dungeons_amount")
+    locations_per_dungeon = get_option_value(multiworld, player, "locations_per_dungeon")
 
-    instance_types = get_option_value(multiworld, player, "instance_types")  # 0=Dungeons, 1=Adventures, 2=Both
-    locations_per_instance = get_option_value(multiworld, player, "locations_per_instance")
-
-    if instance_types == 0:          # Dungeons only
-        disallowed = {"Adventures"}
-    elif instance_types == 1:        # Adventures only
-        disallowed = {"Dungeons"}
-    else:                            # Both
-        disallowed = set()
-
-    categories_by_locname: dict[str, set[str]] = {}
-    for rec in location_table:
-        n = rec.get("name")
-        if not n:
-            continue
-        cats = rec.get("category", []) or []
-        if isinstance(cats, str):
-            cats = [cats]
-        categories_by_locname[n] = set(cats)
+    # Capture zero-padded XX and YY
+    pat = re.compile(r"^Complete\s+(\d{2})\s+dungeon with\s+.+?\s+-\s+Item\s+(\d{2})$")
 
     for region in multiworld.regions:
         if getattr(region, "player", None) != player:
             continue
 
-        for location in list(region.locations):
+        for location in list(region.locations):  # copy for safe removal
             name = getattr(location, "name", "")
 
-            loc_cats = categories_by_locname.get(name, set())
-            if "Win Condition" in loc_cats or name.startswith("Victory"):
+            m = pat.match(name)
+            if not m:
+                # Not one of our generated locations -> keep
                 continue
 
-            m = item_re.search(name)
-            if m and int(m.group(1)) > locations_per_instance:
-                region.locations.remove(location)
-                continue
+            xx = int(m.group(1))  # dungeons completed
+            yy = int(m.group(2))  # item number
 
-            if loc_cats & disallowed:
+            if xx > dungeons_amount or yy > locations_per_dungeon:
                 region.locations.remove(location)
 
+    # Some MW versions require clearing this cache
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
+
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
@@ -105,52 +90,27 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    # Use this hook to remove items from the item pool
+    itemNamesToRemove: list[str] = [] # List of item names
 
-    instance_type = get_option_value(multiworld, player, "instance_types")
-    if instance_type == 0:       # Dungeons only
-        allowed = {"Dungeons"}
-        disallowed = {"Adventures"}
-    elif instance_type == 1:     # Adventures only
-        allowed = {"Adventures"}
-        disallowed = {"Dungeons"}
-    else:                    # Both
-        allowed = {"Dungeons", "Adventures"}
-        disallowed = set()
+    # Add your code here to calculate which items to remove.
+    #
+    # Because multiple copies of an item can exist, you need to add an item name
+    # to the list multiple times if you want to remove multiple copies of it.
 
-    categories_by_name: dict[str, set[str]] = {}
-    for rec in item_table:
-        name = rec.get("name")
-        if not name:
-            continue
-        item_categories = rec.get("category", []) or []
-        if isinstance(item_categories, str):
-            item_categories = [item_categories]
-        categories_by_name[name] = set(item_categories)
+    for itemName in itemNamesToRemove:
+        item = next(i for i in item_pool if i.name == itemName)
+        item_pool.remove(item)
 
-    filtered_items: list = []
-    precollect_candidates: list = []
+    return item_pool
 
-    for item in list(item_pool):
-        item_categories = categories_by_name.get(getattr(item, "name", ""), set())
+    # Some other useful hook options:
 
-        if item_categories & disallowed:
-            continue
-
-        filtered_items.append(item)
-
-        if item_categories & allowed:
-            precollect_candidates.append(item)
-
-    if precollect_candidates:
-        starter = world.random.choice(precollect_candidates)
-        multiworld.push_precollected(starter)
-        filtered_items.remove(starter)
-
-        if not hasattr(world, "manual_precollected"):
-            world.manual_precollected = {}
-        world.manual_precollected.setdefault(player, []).append(starter.name)
-
-    return world.adjust_filler_items(filtered_items, [])
+    ## Place an item at a specific location
+    # location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Location Name")
+    # item_to_place = next(i for i in item_pool if i.name == "Item Name")
+    # location.place_locked_item(item_to_place)
+    # item_pool.remove(item_to_place)
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:

@@ -54,15 +54,15 @@
       "include_mara"
     ]
   },
-  "CoolGuy": {
+  "Elarion": {
     "yaml_option": [
-      "include_coolguy"
+      "include_elarion"
     ]
   },
-  "CoolGuy_Item": {
+  "Elarion_Item": {
     "hidden": true,
     "yaml_option": [
-      "include_coolguy"
+      "include_elarion"
     ]
   },
   "Ardeos": {

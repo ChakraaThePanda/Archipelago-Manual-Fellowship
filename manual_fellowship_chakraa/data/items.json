@@ -41,9 +41,9 @@
   },
   {
     "count": 1,
-    "name": "CoolGuy",
+    "name": "Elarion",
     "category": [
-      "Heroes", "CoolGuy_Item"
+      "Heroes", "Elarion_Item"
     ],
     "progression": true
   },

@@ -29,10 +29,10 @@
     "connects_to": [],
     "requires": "|Mara|"
   },
-  "CoolGuy": {
+  "Elarion": {
     "starting": true,
     "connects_to": [],
-    "requires": "|CoolGuy|"
+    "requires": "|Elarion|"
   },
   "Ardeos": {
     "starting": true,

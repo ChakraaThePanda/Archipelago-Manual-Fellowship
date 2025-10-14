@@ -109,8 +109,8 @@ Manual_Fellowship_Chakraa:
     'false': 0
     'true': 50
 
-  include_coolguy:
-    # When set to true, will include CoolGuy in the pool
+  include_elarion:
+    # When set to true, will include Elarion in the pool
     'false': 0
     'true': 50
 

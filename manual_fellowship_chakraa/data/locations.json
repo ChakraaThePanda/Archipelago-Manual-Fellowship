@@ -7207,5 +7207,1605 @@
     ],
     "requires": [],
     "region": "Vigour"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 2 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 3 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 4 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 5 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 6 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 7 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 8 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 9 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 01",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 02",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 03",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 04",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 05",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 06",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 07",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 08",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 09",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 10 dungeons with Aeona - Item 10",
+    "category": [
+      "Aeona"
+    ],
+    "requires": [],
+    "region": "Aeona"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 1 dungeon with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 2 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 3 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 4 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 5 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 6 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 7 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 8 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 9 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 01",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 02",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 03",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 04",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 05",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 06",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 07",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 08",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 09",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
+  },
+  {
+    "name": "Complete 10 dungeons with Xavian - Item 10",
+    "category": [
+      "Xavian"
+    ],
+    "requires": [],
+    "region": "Xavian"
   }
 ]

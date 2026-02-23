@@ -32,7 +32,7 @@ description: Default Manual_Fellowship_Chakraa Template
 
 game: Manual_Fellowship_Chakraa
 requires:
-  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.5 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_Fellowship_Chakraa:
   ################
@@ -47,8 +47,9 @@ Manual_Fellowship_Chakraa:
     # Minimum value is 0
     # Maximum value is 99
     random: 0
-    random-low: 0
-    random-high: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-99: 0 # random value between 0 and 99
     disabled: 0 # equivalent to 0
     normal: 50 # equivalent to 50
     extreme: 0 # equivalent to 99
@@ -70,8 +71,9 @@ Manual_Fellowship_Chakraa:
     # Maximum value is 10
     2: 50
     random: 0
-    random-low: 0
-    random-high: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-10: 0 # random value between 1 and 10
 
   locations_per_dungeon:
     # Select the amount of locations each dungeon has.
@@ -81,8 +83,9 @@ Manual_Fellowship_Chakraa:
     # Maximum value is 10
     4: 50
     random: 0
-    random-low: 0
-    random-high: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-10: 0 # random value between 1 and 10
 
   include_helena:
     # When set to true, will include Helena in the pool
@@ -129,6 +132,16 @@ Manual_Fellowship_Chakraa:
     'false': 0
     'true': 50
 
+  include_aeona:
+    # When set to true, will include Aeona in the pool
+    'false': 0
+    'true': 50
+
+  include_xavian:
+    # When set to true, will include Xavian in the pool
+    'false': 0
+    'true': 50
+
   ###########################
   # Item & Location Options #
   ###########################
@@ -141,11 +154,11 @@ Manual_Fellowship_Chakraa:
     []
 
   start_inventory:
-    # Start with these items.
+    # Start with the specified amount of these items. Example: "Bomb: 1"
     {}
 
   start_inventory_from_pool:
-    # Start with these items and don't place them in the world.
+    # Start with the specified amount of these items and don't place them in the world. Example: "Bomb: 1"
     # 
     # The game decides what the replacement items will be.
     {}

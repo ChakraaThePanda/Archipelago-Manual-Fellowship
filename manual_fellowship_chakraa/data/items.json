@@ -70,5 +70,21 @@
       "Heroes", "Vigour_Item"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aeona",
+    "category": [
+      "Heroes", "Aeona_Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Xavian",
+    "category": [
+      "Heroes", "Xavian_Item"
+    ],
+    "progression": true
   }
 ]

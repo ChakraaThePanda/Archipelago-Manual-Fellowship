@@ -48,5 +48,15 @@
     "starting": true,
     "connects_to": [],
     "requires": "|Vigour|"
+  },
+  "Aeona": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Aeona|"
+  },
+  "Xavian": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Xavian|"
   }
 }

@@ -73,6 +73,10 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     options.type_hints["include_sylvie"].display_name = """Include Sylvie"""
     options.type_hints["include_vigour"].__doc__ = """When set to true, will include Vigour in the pool"""
     options.type_hints["include_vigour"].display_name = """Include Vigour"""
+    options.type_hints["include_aeona"].__doc__ = """When set to true, will include Aeona in the pool"""
+    options.type_hints["include_aeona"].display_name = """Include Aeona"""
+    options.type_hints["include_xavian"].__doc__ = """When set to true, will include Xavian in the pool"""
+    options.type_hints["include_xavian"].display_name = """Include Xavian"""
 
     return options
 

@@ -97,5 +97,27 @@
     "yaml_option": [
       "include_vigour"
     ]
+  },
+  "Aeona": {
+    "yaml_option": [
+      "include_aeona"
+    ]
+  },
+  "Aeona_Item": {
+    "hidden": true,
+    "yaml_option": [
+      "include_aeona"
+    ]
+  },
+  "Xavian": {
+    "yaml_option": [
+      "include_xavian"
+    ]
+  },
+  "Xavian_Item": {
+    "hidden": true,
+    "yaml_option": [
+      "include_xavian"
+    ]
   }
 }

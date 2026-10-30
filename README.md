@@ -9,3 +9,9 @@ This AP World requires the use of the game Fellowship.
 ## How to play
 * Complete the dungeons with the heroes you have received through Archipelago. You will start with 1 free hero.
 * Once an dungeons is completed, you can send your checks for the appropriate hero.
+
+---
+
+### Questions or feedback?
+
+Need help, found a bug, or have an idea? Join my Discord server, [Chakraa's Projects](https://discord.gg/bkk4nVXcjm), and post in this project's channel.

@@ -3,6 +3,7 @@ from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Ch
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 from typing import Type, Any
+from ..Data import category_table
 
 
 ####################################################################
@@ -55,30 +56,14 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     # options.type_hints['goal'].aliases.update({"example": 0, "second_alias": 1})
     # options.type_hints['goal'].options.update({"example": 0, "second_alias": 1})  #for an alias to be valid it must also be in options
 
-    options.type_hints["include_helena"].__doc__ = """When set to true, will include Helena in the pool"""
-    options.type_hints["include_helena"].display_name = """Include Helena"""
-    options.type_hints["include_meiko"].__doc__ = """When set to true, will include Meiko in the pool"""
-    options.type_hints["include_meiko"].display_name = """Include Meiko"""
-    options.type_hints["include_rime"].__doc__ = """When set to true, will include Rime in the pool"""
-    options.type_hints["include_rime"].display_name = """Include Rime"""
-    options.type_hints["include_tariq"].__doc__ = """When set to true, will include Tariq in the pool"""
-    options.type_hints["include_tariq"].display_name = """Include Tariq"""
-    options.type_hints["include_mara"].__doc__ = """When set to true, will include Mara in the pool"""
-    options.type_hints["include_mara"].display_name = """Include Mara"""
-    options.type_hints["include_elarion"].__doc__ = """When set to true, will include Elarion in the pool"""
-    options.type_hints["include_elarion"].display_name = """Include Elarion"""
-    options.type_hints["include_ardeos"].__doc__ = """When set to true, will include Ardeos in the pool"""
-    options.type_hints["include_ardeos"].display_name = """Include Ardeos"""
-    options.type_hints["include_sylvie"].__doc__ = """When set to true, will include Sylvie in the pool"""
-    options.type_hints["include_sylvie"].display_name = """Include Sylvie"""
-    options.type_hints["include_vigour"].__doc__ = """When set to true, will include Vigour in the pool"""
-    options.type_hints["include_vigour"].display_name = """Include Vigour"""
-    options.type_hints["include_aeona"].__doc__ = """When set to true, will include Aeona in the pool"""
-    options.type_hints["include_aeona"].display_name = """Include Aeona"""
-    options.type_hints["include_xavian"].__doc__ = """When set to true, will include Xavian in the pool"""
-    options.type_hints["include_xavian"].display_name = """Include Xavian"""
-    options.type_hints["include_gunde"].__doc__ = """When set to true, will include Gunde in the pool"""
-    options.type_hints["include_gunde"].display_name = """Include Gunde"""
+    # Every hero category in categories.json gets its include_<hero> toggle described here,
+    # so adding a hero only needs data (items, categories, regions, locations)
+    for category, data in category_table.items():
+        if category.endswith("_Item"):
+            continue
+        for option_name in data.get("yaml_option", []):
+            options.type_hints[option_name].__doc__ = f"When set to true, will include {category} in the pool"
+            options.type_hints[option_name].display_name = f"Include {category}"
 
     return options
 

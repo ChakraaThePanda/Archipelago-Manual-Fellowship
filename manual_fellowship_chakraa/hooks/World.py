@@ -6,7 +6,6 @@ from BaseClasses import MultiWorld, CollectionState, Item
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
 from ..Locations import ManualLocation
-from .Options import DungeonsAmount, LocationsPerDungeon
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
@@ -17,7 +16,7 @@ from ..Data import game_table, item_table, location_table, region_table
 from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat, is_item_enabled
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
-import logging, re
+import logging
 
 ########################################################################################
 ## Order of method calls when the world generates:
@@ -51,31 +50,9 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
-
-    dungeons_amount = get_option_value(multiworld, player, "dungeons_amount")
-    locations_per_dungeon = get_option_value(multiworld, player, "locations_per_dungeon")
-
-    pat = re.compile(r"^Complete\s+(\d+)\s+dungeons?\s+with\s+.+?\s+-\s+Item\s+(\d{2})$")
-
-    for region in multiworld.regions:
-        if getattr(region, "player", None) != player:
-            continue
-
-        for location in list(region.locations):
-            name = getattr(location, "name", "")
-
-            m = pat.match(name)
-            if not m:
-                continue
-
-            xx = int(m.group(1))  # dungeons completed
-            yy = int(m.group(2))  # item number
-
-            if xx > dungeons_amount or yy > locations_per_dungeon:
-                region.locations.remove(location)
-
-    if hasattr(multiworld, "clear_location_cache"):
-        multiworld.clear_location_cache()
+    # Dungeon checks above the dungeons_amount / locations_per_dungeon options are filtered out
+    # before creation, in before_is_location_enabled (hooks/Helpers.py)
+    pass
 
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
@@ -123,30 +100,7 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
-    """
-    Count fix for precollected items:
-    push_precollected() removes the item from the pool, so @Category:ALL won't see it
-    unless we also add it to the count tables. This syncs the counts so goals don't
-    unlock at ALL-1.
-    THIS FIX IS TEMPORARY UNTIL MANUAL ADDS A REAL ONE.
-    All of this will not be needed at all once patched.
-    """
-    names = getattr(world, "manual_precollected", {}).get(player, [])
-    if not names:
-        return
-
-    # Ensure per-player dicts exist
-    if not hasattr(world, "item_counts"):
-        world.item_counts = {}
-    if not hasattr(world, "item_counts_progression"):
-        world.item_counts_progression = {}
-
-    world.item_counts.setdefault(player, {})
-    world.item_counts_progression.setdefault(player, {})
-
-    for item_name in names:
-        world.item_counts[player][item_name] = world.item_counts[player].get(item_name, 0) + 1
-        world.item_counts_progression[player][item_name] = world.item_counts_progression[player].get(item_name, 0) + 1
+    pass
 
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):

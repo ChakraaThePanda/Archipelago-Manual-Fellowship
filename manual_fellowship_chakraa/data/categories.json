@@ -119,5 +119,16 @@
     "yaml_option": [
       "include_xavian"
     ]
+  },
+  "Gunde": {
+    "yaml_option": [
+      "include_gunde"
+    ]
+  },
+  "Gunde_Item": {
+    "hidden": true,
+    "yaml_option": [
+      "include_gunde"
+    ]
   }
 }

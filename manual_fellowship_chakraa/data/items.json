@@ -86,5 +86,13 @@
       "Heroes", "Xavian_Item"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gunde",
+    "category": [
+      "Heroes", "Gunde_Item"
+    ],
+    "progression": true
   }
 ]

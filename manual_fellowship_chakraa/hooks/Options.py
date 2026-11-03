@@ -77,6 +77,8 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     options.type_hints["include_aeona"].display_name = """Include Aeona"""
     options.type_hints["include_xavian"].__doc__ = """When set to true, will include Xavian in the pool"""
     options.type_hints["include_xavian"].display_name = """Include Xavian"""
+    options.type_hints["include_gunde"].__doc__ = """When set to true, will include Gunde in the pool"""
+    options.type_hints["include_gunde"].display_name = """Include Gunde"""
 
     return options
 

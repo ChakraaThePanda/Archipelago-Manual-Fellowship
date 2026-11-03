@@ -59,5 +59,10 @@
     "starting": true,
     "connects_to": [],
     "requires": "|Xavian|"
+  },
+  "Gunde": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Gunde|"
   }
 }
